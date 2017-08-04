@@ -7,6 +7,7 @@ public class Main {
 		System.out.println("Say hello.");
 		System.out.println("Say hi.");
 		System.out.println("Trying with ate Dash.");
+		System.out.println("Hey ;)");
 		//errorrr msg
 	}
 
