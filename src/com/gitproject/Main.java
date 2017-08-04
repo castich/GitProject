@@ -8,6 +8,7 @@ public class Main {
 		System.out.println("Say hi.");
 		System.out.println("Trying with ate Dash.");
 		System.out.println("Hey ;)");
+		System.out.println("Hey hey hey. ;)");
 		//errorrr msg
 	}
 
